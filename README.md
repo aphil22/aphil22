@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aphil22
-- 👀 I’m interested in Machine Learning, Computer Vision
-- 🌱 I’m currently learning Computer Vision
+- 👀 I’m interested in Machine Learning, Computer Vision, Robotics
+- 🌱 I’m currently learning Computer Vision, AI
 - 💞️ I’m looking to collaborate on CNN, AI
 - 📫 How to reach me ...
 
