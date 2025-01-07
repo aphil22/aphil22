@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aphil22
+- 👋 Hi, I’m Abi
 - 👀 I’m interested in Machine Learning, Computer Vision, Robotics
 - 🌱 I’m currently learning Computer Vision, AI
 - 💞️ I’m looking to collaborate on CNN, AI
